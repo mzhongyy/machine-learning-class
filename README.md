@@ -10,4 +10,5 @@
 
 ### 上课形式
 上课的课件就是每章课程的jupyter文件，在上课前请确保已经把课件clone了下来，并且jupyter能跑起来。
+
 jupyter使用教程：https://www.cnblogs.com/Neo007/p/7501625.html

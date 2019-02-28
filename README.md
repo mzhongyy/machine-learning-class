@@ -7,3 +7,6 @@
 - pip install matplotlib
 - pip install seaborn
 - pip install sklearn
+
+### 上课形式
+上课的课件就是每章课程的jupyter文件，在上课前请确保已经把课件clone了下来，并且jupyter能跑起来。

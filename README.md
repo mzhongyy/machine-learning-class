@@ -10,5 +10,6 @@
 
 ### 上课形式
 上课的课件就是每章课程的jupyter文件，在上课前请确保已经把课件clone了下来，并且jupyter能跑起来。
+ps: 由于jupyter打开文件的默认目录在你的用户目录，因此最好把文件clone到用户目录下。
 
 jupyter使用教程：https://www.cnblogs.com/Neo007/p/7501625.html

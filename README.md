@@ -1,5 +1,5 @@
 # machine-learning-class
-## 请先安装python3，然后安装以下相关包
+## 请先安装python3，将python设置为环境变量，然后打开命令行，安装以下相关包：
 
 - pip install jupyter
 - pip install numpy
